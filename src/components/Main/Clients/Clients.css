@@ -1,0 +1,98 @@
+.clients{
+    background-color: #F6F6F6;
+    padding-top: 104px;
+    padding-bottom: 181px;
+}
+.clients__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.clients__text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    color: #FBB034;
+    margin-bottom: 16px;
+}
+.clients__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    color: #000000;
+    max-width: 419px;
+    margin-bottom: 16px;
+}
+.clients__description {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    color: #ABABAB;
+    max-width: 401px;
+    margin-bottom: 35px;
+}
+.clients__btn {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #000000;
+    padding: 18px 53px;
+    background-color: #FBB034;
+    border: 1px solid #FBB034;
+}
+.clients__list {
+    display: flex;
+    align-items: center;
+    justify-content: center;
+}
+.clients__item {
+    /* background-image: url(/public/img/clients__item-bg.png); */
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    /* background-repeat: no-repeat; */
+    /* background-position: center; */
+    /* background-size: 158px 116px; */
+    padding: 40px 32px 20px;
+    background: #FFFFFF;
+    margin-left: 68px;
+    box-shadow: 9px 25px 10px rgba(0, 0, 0, 0.01), 5px 14px 9px rgba(0, 0, 0, 0.05), 2px 6px 6px rgba(0, 0, 0, 0.09), 1px 2px 4px rgba(0, 0, 0, 0.1), 0px 0px 0px rgba(0, 0, 0, 0.1);
+}
+.clients__item-text {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 13px;
+    line-height: 106.5%;
+    color: #C2C2C2;
+    max-width: 256px;
+    text-align: center;
+    margin-top: 22px;
+}
+.clients__item-name {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #000000;
+}
+.clients__item-info {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 12px;
+    line-height: 106.5%;
+    color: #CECECE;
+}
+.stars{
+    margin-top: 17px;
+    margin-bottom: 5px;
+}

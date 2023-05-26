@@ -1,0 +1,52 @@
+.join {
+    padding-top: 145px;
+    padding-bottom: 145px;
+    background-image: url(/public/img/join__bg.png);
+    background-repeat: no-repeat;
+    background-size: 100% 100%;
+    background-position: center;
+}
+.join__wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+}
+.join__text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    text-align: center;
+    color: #FBB034;
+    margin-bottom: 16px;
+}
+.join__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 36px;
+    line-height: 94.5%;
+    text-align: center;
+    margin: 0 auto;
+    text-transform: capitalize;
+    color: #FFFFFF;
+    max-width: 566px;
+    margin-bottom: 67px;
+}
+.join__btn {
+    font-family: 'Poppins';
+font-style: normal;
+font-weight: 700;
+font-size: 15px;
+line-height: 106.5%;
+background-color: inherit;
+border: 1px solid #FBB034;
+color: #FBB034;
+padding: 15px 35px;
+transition: all 0.4s ease;
+}
+.join__btn:hover{
+    background-color: #FBB034;
+    color: black;
+}

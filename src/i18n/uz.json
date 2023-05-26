@@ -1,0 +1,38 @@
+{
+    "Home": "Uy",
+    "Us": "Biz haqimizda",
+    "Services": "Xizmatlar",
+    "Contact": "Aloqa",
+    "hero__text": "Choppersga xush kelibsiz",
+    "hero__title": "Professional ko'rinish uchun eng yaxshi sartaroshxona",
+    "hero__description": "Choppers sizga ko'rinadigan natijalarni taqdim etish uchun yuqori samarali moslashtirilgan yuz parvarishlarini taklif qiladi.",
+    "hero__btn-orange": "Hozir band qiling",
+    "hero__btn-black": "Barcha xizmatlarni hozir band qiling",
+    "best__title": "Erkaklar uchun eng yaxshi soch turmagi",
+    "best__description": "Sartaroshlaringizga o'zlarining ajoyib ishlarini qilishlariga ruxsat bering. Istalgan ko'rinishga ega bo'lish uchun sochni tarang. Sevimli soch turmagi uchun biz bilan uchrashuv yozing!",
+    "book__text": "Hozir band qiling",
+    "book__title": "Uchrashuvni onlayn bron qiling.",
+    "book__desciption": "Bizning veb-saytimizdan foydalanib, birinchi soch turmagi uchun 10% chegirmaga ega bo'ling.",
+    "book__call": "Hozir qo'ng'iroq qiling",
+    "working__title": "ISH KUNLARI",
+    "working__text": "Biz haftaning olti kunida ochiqmiz",
+    "working__day1": "Dushanba",
+    "working__time1": "9:00 dan 22:00 gacha",
+    "working__day2": "Juma",
+    "working__time2": "9:00 dan 22:00 gacha",
+    "join__text": "Hamkor",
+    "join__title": "Bizga qo'shiling. Filialga a'zo bo'lish orqali bizning bir bo'lamizga aylaning",
+    "clients__text": "Guvohlar",
+    "clients__title": "Mijozlarimiz biz haqimizda nima deyishadi",
+    "clients__description": "Sartaroshlaringizga o'zlarining ajoyib ishlarini qilishlariga ruxsat bering. Istalgan ko'rinishga ega bo'lish uchun sochni tarang. Sevimli soch turmagi uchun biz bilan uchrashuv yozing!",
+    "clients__item-text": "O'z kasbi bo'yicha eng zo'rlardan xizmatlarni olish ajoyib tajriba bo'ldi. Buning har soniyasidan mutlaq zavqlandim.",
+    "clients__item-info": "Doimiy foydalanuvchi",
+    "buttons":{ 
+        "book": "Hozir band qiling",
+        "read": "Ko'proq o'qish",
+        "appointment": "Kitobni tayinlash",
+        "partner": "Hamkorlik dasturi",
+        "give" : "Sharhlar bering"
+    }
+
+}

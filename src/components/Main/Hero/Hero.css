@@ -1,0 +1,88 @@
+.hero {
+    background-image:url(/public/img/hero__img.png), url(/public/img/hero__bg.jpg);
+    background-repeat: no-repeat;
+    background-position:calc(50% + 400px) calc(50% + 42px), center;
+    background-size: 720px 625px , 100% 100%;
+}
+.hero__wrapper {
+    padding-top: 220px;
+    padding-bottom: 140px;
+}
+.hero__text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 16px;
+    line-height: 106.5%;
+    color: #FBB034;
+    padding-bottom: 22px;
+}
+.hero__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    color: #FFFFFF;
+    max-width: 513px;
+    padding-bottom: 22px;
+}
+.hero__description {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 21px;
+    max-width: 389px;
+    line-height: 106.5%;
+    color: #9A9A9A;
+}
+.hero__buttons {
+    display: flex;
+    align-items: center;
+    margin-top: 80px;
+}
+.hero__btn-orange {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    padding: 18px 53px;
+    color: #000000;
+    background: #FBB034;
+    border: 1px solid #fbb034;
+    margin-right: 40px;
+    transition: all 0.4s ease;
+}
+.hero__btn-black {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+    padding: 18px 53px;
+    background-color: inherit;
+    transition: all 0.4s ease;
+}
+.hero__btn-black:hover{
+    border: 1px solid #fbb034;
+    color: #000000;
+    background-color: #FBB034; 
+}
+.hero__btn-black:active{
+    background-color: inherit;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+.hero__btn-orange:hover{
+    background-color: inherit;
+    color: #FFFFFF;
+    border: 1px solid #FFFFFF;
+}
+.hero__btn-orange:active{
+    border: 1px solid #fbb034;
+    color: #000000;
+    background-color: #FBB034;
+}

@@ -1,0 +1,86 @@
+.book{
+    padding-top: 114px;
+    padding-bottom: 114px;
+    background-image: url(/public/img/book__bg.png);
+    background-repeat: no-repeat;
+    background-position: center;
+    background-size: 100% 100%;
+}
+.book__wrapper {
+    display: flex;
+    justify-content: space-between;
+}
+.book__text {
+    font-family: 'Jost';
+    font-style: normal;
+    font-weight: 400;
+    font-size: 18px;
+    line-height: 106.5%;
+    color: #FBB034;
+    margin-bottom: 12px;
+}
+.book__title {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 48px;
+    line-height: 94.5%;
+    max-width: 586px;
+    color: #FFFFFF;
+    margin-bottom: 28px;
+}
+.book__desciption {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 500;
+    font-size: 20px;
+    line-height: 94.5%;
+    max-width: 339px;
+    color: #B8B8B8;
+    margin-bottom: 28px;
+}
+.book__btn {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 15px;
+    line-height: 106.5%;
+    padding: 18px 53px;
+    color: #FFFFFF;
+    background-color: #FBB034;
+    border: 1px solid #FBB034;
+    transition: all 0.4s ease;
+}
+.book__btn:hover{
+    background-color: inherit;
+}
+.book__right-wrapper {
+    display: flex;
+    flex-direction: column;
+    align-items: center;
+    padding: 61px 80px;
+    background-color: #FFFFFF;
+}
+.book__img{
+    background-color: #E8E8E8;
+    padding: 29px 33px;
+    border-radius: 50%;
+    margin-bottom: 13px;
+}
+.book__call {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 20px;
+    line-height: 94.5%;
+    color: #B8B8B8;
+    margin-bottom: 8px;
+}
+.book__number {
+    font-family: 'Poppins';
+    font-style: normal;
+    font-weight: 700;
+    font-size: 24px;
+    line-height: 94.5%;
+    color: #000000;
+}
