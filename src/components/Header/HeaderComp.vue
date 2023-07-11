@@ -16,6 +16,7 @@ function swichLang(){
     <header class="header">
         <div class="container">
             <div class="header__wrapper">
+                <img src="/public/img/logo.svg" alt="logo">
                 <nav class="header__nav">
                     <ul class="header__list">
                         <li class="header__item">
