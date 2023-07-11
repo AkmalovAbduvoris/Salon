@@ -20,16 +20,16 @@ function swichLang(){
                 <nav class="header__nav">
                     <ul class="header__list">
                         <li class="header__item">
-                            <router-link class="header__link" to="https://t.me/Abduvorisss">{{$t('Home')}}</router-link>
+                            <router-link class="header__link" target="_blank" to="https://t.me/Abduvorisss">{{$t('Home')}}</router-link>
                         </li>
                         <li class="header__item">
-                            <router-link class="header__link" to="https://t.me/Abduvorisss">{{$t('Us')}}</router-link>
+                            <router-link class="header__link" target="_blank" to="https://t.me/Abduvorisss">{{$t('Us')}}</router-link>
                         </li>
                         <li class="header__item">
-                            <router-link class="header__link" to="https://t.me/Abduvorisss">{{$t('Services')}}</router-link>
+                            <router-link class="header__link" target="_blank" to="https://t.me/Abduvorisss">{{$t('Services')}}</router-link>
                         </li>
                         <li class="header__item">
-                            <router-link class="header__link" to="https://t.me/Abduvorisss">{{$t('Contact')}}</router-link>
+                            <router-link class="header__link" target="_blank" to="https://t.me/Abduvorisss">{{$t('Contact')}}</router-link>
                         </li>
                     </ul>
                     <div class="header__buttons">
